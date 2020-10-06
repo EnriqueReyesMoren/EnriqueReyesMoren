@@ -1,6 +1,12 @@
 ### My name is Manu 👋
 
 - 🔭 I’m currently working on Fullstack Web development bootcamp at Ironhack...
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: 
+
+### manureyes.xyz
+### https://www.linkedin.com/in/manureyesmoren/
+
 <!--
 **EnriqueReyesMoren/EnriqueReyesMoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
