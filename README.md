@@ -4,8 +4,6 @@
 
 ### My name is Manu 👋
 
-- 🔭 I’m currently working on Fullstack Web development bootcamp at Ironhack...
-- 🌱 I’m currently learning React Native
 - 📫 How to reach me: 
 
 ### manureyes.xyz
